@@ -39,7 +39,7 @@
 <div class="image-container">
   <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40", title="Tableau">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40",title="Power BI">
-  <img src="https://datawarehouse.io/wp-content/uploads/2023/04/Thoughtspot-1000x1000-1.png" alt="ts" width="60" height="60",title="ThoughtSpot" >
+  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_a08e598d3f6509116f0462eb817d5b96/thoughtspot.png" alt="ts" width="60" height="40",title="ThoughtSpot" >
   <img src="https://asset.brandfetch.io/id9_R-itFe/idMkEklxqI.jpeg" alt="flourish" width="40" height="40",title="Flourish" >
   <img src="https://asset.brandfetch.io/idGWUtW5Qh/idCgavSoeA.png" alt="datawrapper" width="40" height="40",title="Datawrapper">
 </div>
