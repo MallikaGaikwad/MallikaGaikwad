@@ -7,7 +7,7 @@
 📍 Boston, Massachusetts <br>
 📚 Currently studying Data Mining Engineering and Computation and Visualization as my course subjects <br>
 
-## Know Me More
+## About Me
 🔭 Project I am working on : Diabetic Readmission Analysis as my Data Mining Project\
 🌱 Currently Learning: Airflow and Jira\
 👨‍💻 All of my projects are available at [https://github.com/MallikaGaikwad](https://github.com/MallikaGaikwad)\
@@ -68,7 +68,7 @@
 ## Academics
 📖 **Master of Science in Data Analytics Engineering**\
 📍 *Northeastern University - Boston,Massachusetts, United States* \
-📆 September 2023 - May 2025\
+📆 September 2023 - May 2025
 
 #### Relevant Courses:
 - Foundations of Data Analytics
@@ -79,7 +79,7 @@
 
 📖 **Bachelor of Engineering In Computer Science** \
 📍 *Rajiv Gandhi Institute Of Technology** - Mumbai, India* \
-📆 August 2017 - June 2021\
+📆 August 2017 - June 2021
 
 #### Relevant Courses:
 - Database Management Systems
