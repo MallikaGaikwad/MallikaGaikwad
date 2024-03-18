@@ -78,7 +78,7 @@
 
 
 📖 **Bachelor of Engineering In Computer Science** \
-📍 *Rajiv Gandhi Institute Of Technology** - Mumbai, India \
+📍 *Rajiv Gandhi Institute Of Technology - Mumbai, India* \
 📆 August 2017 - June 2021
 
 #### Relevant Courses:
