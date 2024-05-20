@@ -11,7 +11,7 @@
 🔭 Project I am working on : Regression Model for Predicting Housing Prices\
 🌱 Currently Learning: Airflow and Jira\
 👨‍💻 All of my projects are available at [https://github.com/MallikaGaikwad](https://github.com/MallikaGaikwad)\
-📈 You can view my dashboards at [https://public.tableau.com/app/profile/mallika.gaikwad/vizzes]\
+📈 You can view my dashboards at https://public.tableau.com/app/profile/mallika.gaikwad/vizzes\
 📫 You can reach me at **gaikwad.mal@northeastern.edu / mallikagaikwad12@gmail.com** 
 
 ## Technologies Known: 
