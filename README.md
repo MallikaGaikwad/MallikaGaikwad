@@ -11,7 +11,7 @@
 🔭 Project I am working on : Diabetic Readmission Analysis as my Data Mining Project\
 🌱 Currently Learning: Airflow and Jira\
 👨‍💻 All of my projects are available at [https://github.com/MallikaGaikwad](https://github.com/MallikaGaikwad)\
-📫 You can reach me at **gaikwad.mal@northeastern.edu**
+📫 You can reach me at **gaikwad.mal@northeastern.edu / mallikagaikwad12@gmail.com** 
 
 ## Technologies Known: 
 
