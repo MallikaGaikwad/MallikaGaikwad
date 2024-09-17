@@ -5,7 +5,7 @@
 
 📖 A graduate student at <b>Northeastern University, Boston</b> <br>
 📍 Boston, Massachusetts <br>
-📚 Currently studying Data Mining Engineering and Computation and Visualization as my course subjects <br>
+📚 Currently studying Machine Learning Operations and Cloud Computing as my course subjects <br>
 
 ## About Me
 🔭 Project I am working on : Building a ETL Pipeline\
