@@ -1,18 +1,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 <h1 align = "center"> 👋 Hi, I’m @MallikaGaikwad </h1>
-<h2 align = "center"> 👀 I am a passionate Data Analyst looking for Spring Internships/Co-ops in 2025 </h2>
+<h2 align = "center"> I am working as a BI Engineer Coop with Sunny Benefits </h2>
 
 📖 A graduate student at <b>Northeastern University, Boston</b> <br>
 📍 Boston, Massachusetts <br>
-📚 Currently studying Machine Learning Operations and Cloud Computing as my course subjects <br>
 
 ## About Me
-🔭 Project I am working on : Building a ETL Pipeline\
-🌱 Currently Learning: Airflow and Jira and AWS S3\
+🔭 Project I am working on : Building Tableau Dashboards\
+🌱 Currently Learning: DBT and AWS Redshift\
 👨‍💻 All of my projects are available at [https://github.com/MallikaGaikwad](https://github.com/MallikaGaikwad)\
 📈 You can view my dashboards at https://public.tableau.com/app/profile/mallika.gaikwad/vizzes  \
-📫 You can reach me at **gaikwad.mal@northeastern.edu / mallikagaikwad12@gmail.com** 
+📫 You can reach me at **mallikagaikwad12@gmail.com** 
 
 ## Technologies Known: 
 
