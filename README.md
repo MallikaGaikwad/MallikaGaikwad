@@ -1,14 +1,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 <h1 align = "center"> 👋 Hi, I’m @MallikaGaikwad </h1>
-<h2 align = "center"> I am working as a BI Engineer Coop with Sunny Benefits </h2>
+<h2 align = "center"> Seeking Full Time Opportunities starting January 2026 </h2>
 
 📖 A graduate student at <b>Northeastern University, Boston</b> <br>
 📍 Boston, Massachusetts <br>
 
 ## About Me
-🔭 Project I am working on : Building Tableau Dashboards\
-🌱 Currently Learning: DBT and AWS Redshift\
+🔭 Project I am working on : Some Data Engineer Project\
+🌱 Currently Learning: Solving SQL Leetcode problems
 👨‍💻 All of my projects are available at [https://github.com/MallikaGaikwad](https://github.com/MallikaGaikwad)\
 📈 You can view my dashboards at https://public.tableau.com/app/profile/mallika.gaikwad/vizzes  \
 📫 You can reach me at **mallikagaikwad12@gmail.com** 
