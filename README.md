@@ -7,8 +7,8 @@
 📍 Boston, Massachusetts <br>
 
 ## About Me
-🔭 Project I am working on : Some Data Engineer Project\
-🌱 Currently Learning: Solving SQL Leetcode problems
+🔭 Project I am working on : Building Data Engineering Pipelines \
+🌱 Currently Learning: Apache Spark and Databricks\
 👨‍💻 All of my projects are available at [https://github.com/MallikaGaikwad](https://github.com/MallikaGaikwad)\
 📈 You can view my dashboards at https://public.tableau.com/app/profile/mallika.gaikwad/vizzes  \
 📫 You can reach me at **mallikagaikwad12@gmail.com** 
@@ -53,9 +53,20 @@
 </div>
 
 ## Professional History
+👨‍💻 **Business Intelligence Engineer Co-op**\
+📍 *Sunny Benefits Inc, South Carolina, USA*\
+📆 January 2025-September 2025
+
+#### Responsibilties:
+- I implemented a medallion data architecture using dbt Cloud and AWS Redshift, collaborating with product and data teams to improve data quality and stabilize pipelines. This eliminated recurring failures and led to a 95% reporting accuracy.
+- I also redesigned the EAV reporting layer using SQL and Jinja, consolidating multiple data sources into a single, optimized source for Tableau. By applying dimensional modeling principles, I improved dashboard performance and supported over 2 million member records.
+- As part of pipeline optimization, I streamlined ELT processes using modular modeling in dbt Cloud, Agile development practices, and proactive problem-solving. This reduced refresh time from nine to six minutes, improving pipeline efficiency by 33%.
+- To enhance visibility for leadership, I built and accelerated executive Tableau dashboards, integrating financial and transactional data from multiple sources. By applying data validation and storytelling techniques, I improved reporting speed by 40% and delivered clearer, more actionable insights.
+- I also standardized schemas and unified data from 12+ sources on AWS Redshift and Postgres, leveraging Git-based version control and automated dbt tests to ensure data integrity and enable advanced analytics.
+
 👨‍💻 **Data Analyst**\
 📍 *Orient Technologies Pvt Ltd - Mumbai, India*\
-📆 March 2022 - April 2023
+📆 August 2021 - July 2023
 
 #### Responsibilites:
 - I spearheaded communication with over 10 key banking sector clients, ensuring alignment between dashboard scope and strategic business objectives while understanding analytical requirements.
@@ -68,7 +79,7 @@
 ## Academics
 📖 **Master of Science in Data Analytics Engineering**\
 📍 *Northeastern University - Boston,Massachusetts, United States* \
-📆 September 2023 - May 2025
+📆 September 2023 - December 2025
 
 #### Relevant Courses:
 - Foundations of Data Analytics
