@@ -9,7 +9,7 @@
 ## About Me
 🔭 Project I am working on : Building end-to-end Data Engineering Solutions with Snowflake and integrating AI\
 🌱 Currently Learning: Snowflake and Microsoft Fabric; Solving SQL questions on Data Lemur and LeetCode\
-👨‍💻 All of my projects are available at [https://github.com/MallikaGaikwad](https://github.com/MallikaGaikwad)\
+👨‍💻 All of my projects are available at [https://github.com/MallikaGaikwad](https://github.com/MallikaGaikwad?tab=repositories)\
 📈 You can view my dashboards at https://public.tableau.com/app/profile/mallika.gaikwad/vizzes  \
 📫 You can reach me at **mallikagaikwad12@gmail.com** 
 
