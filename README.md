@@ -7,8 +7,8 @@
 📍 Boston, Massachusetts <br>
 
 ## About Me
-🔭 Project I am working on : Building end-to-end Data Engineering Pipelines \
-🌱 Currently Learning: Apache Spark and Databricks\
+🔭 Project I am working on : Building end-to-end Data Engineering Solutions\
+🌱 Currently Learning: Snowflake and Microsoft Fabric\
 👨‍💻 All of my projects are available at [https://github.com/MallikaGaikwad](https://github.com/MallikaGaikwad)\
 📈 You can view my dashboards at https://public.tableau.com/app/profile/mallika.gaikwad/vizzes  \
 📫 You can reach me at **mallikagaikwad12@gmail.com** 
