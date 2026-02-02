@@ -1,13 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 <h1 align = "center"> 👋 Hi, I’m @MallikaGaikwad </h1>
-<h2 align = "center"> Seeking Full Time Opportunities starting January 2026 </h2>
+<h2 align = "center"> Seeking Full Time Opportunities in Business Intelligence and Data Engineering </h2>
 
 📖 A graduate student at <b>Northeastern University, Boston</b> <br>
 📍 Boston, Massachusetts <br>
 
 ## About Me
-🔭 Project I am working on : Building end-to-end Data Engineering Solutions\
+🔭 Project I am working on : Building end-to-end Data Engineering Solutions with Snowflake and integratinG AI\
 🌱 Currently Learning: Snowflake and Microsoft Fabric\
 👨‍💻 All of my projects are available at [https://github.com/MallikaGaikwad](https://github.com/MallikaGaikwad)\
 📈 You can view my dashboards at https://public.tableau.com/app/profile/mallika.gaikwad/vizzes  \
@@ -17,13 +17,11 @@
 
 #### Languages and Databases:  
 <div class="image-container">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/ > 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="Rstudio" width="40" height"40" title="RStudio"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="Mongo DB"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" title="Mircosoft SQL Server"/>
   <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="mysql" width="40" height="40" title="MySQL Workbench"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="Postgre SQL"/>
   <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" alt="snowflake" width="40" height="40" title="SnowFlake"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/ > 
 </div>
 
 #### Python Libraries:
@@ -37,25 +35,15 @@
 #### Visualization Tools: 
 <div class="image-container">
   <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40", title="Tableau"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40",title="Power BI"/>
+  <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" alt="powerbi" width="70" height="70",title="Power BI"/>
   <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_a08e598d3f6509116f0462eb817d5b96/thoughtspot.png" alt="ts" width="60" height="40",title="ThoughtSpot" />
-  <img src="https://asset.brandfetch.io/id9_R-itFe/idMkEklxqI.jpeg" alt="flourish" width="40" height="40",title="Flourish"/ >
-  <img src="https://asset.brandfetch.io/idGWUtW5Qh/idCgavSoeA.png" alt="datawrapper" width="40" height="40",title="Datawrapper"/>
 </div>
 
-#### Machine Learning: 
-<div class="image-container">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40", title="PyTorch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40",title="Scikit Learn"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40",title="TensorFlow" />
-  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d382c4826ad8a3805f72b9df3ab5b56e/keras.png" alt="keras" width="40" height="40",title="Keras"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="open cv" width="40" height="40",title="Open CV"/>
-</div>
 
 ## Professional History
 👨‍💻 **Business Intelligence Engineer Co-op**\
 📍 *Sunny Benefits Inc, South Carolina, USA*\
-📆 January 2025-September 2025
+📆 January 2025- August 2025
 
 #### Responsibilties:
 - I implemented a medallion data architecture using dbt Cloud and AWS Redshift, collaborating with product and data teams to improve data quality and stabilize pipelines. This eliminated recurring failures and led to a 95% reporting accuracy.
